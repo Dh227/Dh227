@@ -16,6 +16,7 @@
 | [Resume Multi-Agent Studio](https://github.com/Dh227/resume-multi-agent-studio) | macOS 单用户求职桌面工具，覆盖简历优化、岗位解析、安全投递和面试训练。 | Electron、React、TypeScript；人工确认优先的工作流。 |
 | [简填 · 网申资料助手](https://github.com/Dh227/jian-tian-job-form-extension) | 浏览器扩展：预览、脱敏并辅助填写网申表单。 | Chrome/Edge Extension；不自动提交、不处理验证码、不上传隐私资料。 |
 | [LiveCaptionOverlay](https://github.com/Dh227/live-caption-overlay) | macOS 实时中文字幕透明悬浮工具原型。 | SwiftUI、AppKit、ScreenCaptureKit；短时内存缓冲，不落盘保存字幕。 |
+| [Clipboard History](https://github.com/Dh227/clipboard-history) | macOS 菜单栏历史粘贴板工具。 | SwiftUI、Core Data；搜索、置顶、到期清理与本地数据存储。 |
 
 ## 设计原则
 
